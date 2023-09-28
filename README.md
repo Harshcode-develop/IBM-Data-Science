@@ -1,4 +1,4 @@
 # IBM-Data-Science
 
-Course - Applied Capstone for data science
+Course - Applied Data science Capstone
 
